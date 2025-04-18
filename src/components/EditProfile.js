@@ -18,7 +18,6 @@ function EditProfile() {
           </div>
         </div>
       </div>
-      {/* <!-- =============page banner end================ -->*/}
       {/* <!-- ==============profile area========== --> */}
 
       <section className="edit-profile">
